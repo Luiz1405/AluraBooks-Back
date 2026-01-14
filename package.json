@@ -1,0 +1,23 @@
+{
+  "name": "alura-books-back",
+  "version": "1.0.0",
+  "description": "Repositório criado para o desenvolvimento do back end da formação full stack com node e react da Alura",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luiz1405/AluraBooks-Back.git"
+  },
+  "author": "Luiz Kubaszewski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luiz1405/AluraBooks-Back/issues"
+  },
+  "homepage": "https://github.com/Luiz1405/AluraBooks-Back#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.11"
+  }
+}
