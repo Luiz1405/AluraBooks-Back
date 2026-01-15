@@ -5,7 +5,6 @@ function getTodosLivros() {
     return JSON.parse(fs.readFileSync("livros.json"))
 }
 
-
 function getLivroPorId(id) {
     const livros = JSON.parse(fs.readFileSync("livros.json"))
 
